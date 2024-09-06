@@ -1,0 +1,4 @@
+transformers==4.38.2
+tqdm
+torch==2.2.0
+nltk
