@@ -1,5 +1,7 @@
 # DETCP
-Code for the paper [DETCP: SELF-DETOXIFYING LANGUAGE MODELS WITH CONTRASTIVE PAIRS)(https://ieeexplore.ieee.org/document/10887947)
+Code for the paper
+
+[DETCP: Self-Detoxifying Language Models with Contrastive Pairs](https://ieeexplore.ieee.org/abstract/document/10887947)
 
 
 ### Environment
